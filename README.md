@@ -15,3 +15,5 @@ Have attached all screen shots and a video of this project in this repo.
 
 🌐 Live Demo 
 [🔗 www.iglsrilanka.com  ](http://iglsrilanka.com/) 
+
+Please Note : The full project is available privately and can be shared upon request 
